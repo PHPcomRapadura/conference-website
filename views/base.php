@@ -12,7 +12,7 @@
   <link href="assets/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="assets/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 </head>
-<body>
+<body class="amber lighten-4">
   
    <!-- Top Navigation -->
    <?php require_once 'views/nav.php'; ?>
@@ -40,6 +40,9 @@
 
     <!-- Section schedule -->
     <?php require_once 'views/schedule.php'; ?>
+
+    <!-- Section Parallax three -->
+    <?php require_once 'views/parallax-four.php'; ?>
 
     <!-- Section sponsors -->
     <?php require_once 'views/sponsors.php'; ?>

@@ -3,17 +3,17 @@
       <div class="row">
         <div class="col l6 s12">
         <h5 class="white-text">Organizado por:</h5>
-          <img src="assets/img/logo-rapadura-white.png" alt="PHP com Rapadura">
+          <img class="responsive-img" src="assets/img/logo-rapadura-white.png" alt="PHP com Rapadura">
 
         </div>
         <div class="col l3 s12">
           <h5 class="white-text">Encontre-nos:</h5>
           <ul>
-          <a class="green-text text-darken-4" title="website" target="_blank" href="http://phpcomrapadura.org"><i class="fa fa-globe fa-3x" aria-hidden="true"></i>
-</a>
-            <a class="indigo-text" title="twitter" target="_blank" href="https://twitter.com/phpcomrapadura"><i class="fa fa-twitter-square fa-3x" aria-hidden="true"></i>
-</a>
-            <a class="indigo-text text-darken-4" title="facebook" target="_blank" href="https://www.facebook.com/rapaduradopoder/"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
+          <a class="white-text text-darken-4" title="website" target="_blank" href="http://phpcomrapadura.org"><i class="fa fa-globe fa-3x" aria-hidden="true"></i>
+</a>&nbsp;&nbsp;
+            <a class="white-text" title="twitter" target="_blank" href="https://twitter.com/phpcomrapadura"><i class="fa fa-twitter-square fa-3x" aria-hidden="true"></i>
+</a>&nbsp;&nbsp;
+            <a class="white-text text-darken-4" title="facebook" target="_blank" href="https://www.facebook.com/rapaduradopoder/"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
 </a>
           </ul>
         </div>
