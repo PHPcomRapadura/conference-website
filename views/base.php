@@ -7,7 +7,7 @@
   <title>PHP com Rapadura CONFERENCE 2018</title>
 
   <!-- CSS  -->
- 
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <script src="https://use.fontawesome.com/6c531641d9.js"></script>
   <link href="assets/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="assets/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>

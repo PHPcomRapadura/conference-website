@@ -6,7 +6,7 @@
           <img id="img-banner" class="responsive-img" src="assets/img/logo-rapadura.png" alt="PHP com Rapadura">
         </div>
         <div class="row center">
-          <h2 class="header col s12 light font-marron"><strong>CONFERENCE</strong></h2>
+          <img id="img-banner" class="responsive-img" src="assets/img/logo-conference-pcr-brown.png" alt="PHP com Rapadura CONFERENCE">
         </div>
         <div class="row center">
           <h5 class="header col s12 light font-marron"><strong>09 de Junho de 2018</strong></h5>
