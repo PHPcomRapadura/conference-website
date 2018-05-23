@@ -1,5 +1,5 @@
 <div id="index-banner" class="parallax-container">
-    <div class="section no-pad-bot">
+    <div class="section no-pad-bot" id="home">
       <div class="container">
     
         <div class="row center">
@@ -15,7 +15,7 @@
        
         <div class="row center">
           <a href="#about" id="download-button" 
-          class="btn-large waves-effect waves-light color-marron">SAIBA MAIS</a>
+          class="btn-large waves-effect waves-light color-marron scrollSuave">SAIBA MAIS</a>
         </div>
         
       </div>

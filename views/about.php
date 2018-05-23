@@ -13,11 +13,18 @@
             <h5 class="center brown-text"><br></h5>
             <h4 class="center font-marron">O evento de PHP focado nos conhecimentos disinibidos e invocados</h4>
 
-            <p class="light font-marron center">
-            Mussum Ipsum, cacilds vidis litro abertis. Tá deprimidis, eu conheço uma cachacis que pode alegrar sua vidis. Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget. Suco de cevadiss deixa as pessoas mais interessantis. Mauris nec dolor in eros commodo tempor. Aenean aliquam molestie leo, vitae iaculis nisl.
-            Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis! Mé faiz elementum girarzis, nisi eros vermeio. Per aumento de cachacis, eu reclamis. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis. 
-            
-            </p>
+            <p class="font-marron center">
+            É um evento que proporciona a reunião de vários desenvolvedores entusiastas, amantes e estudantes do PHP que gostam de interagir com outros desenvolvedores a fim de compartilhar conhecimento, e assim criar um ciclo colaborativo de ensino e aprendizado.  
+          </p>
+          <p class="font-marron center">
+          A principal finalidade do evento é a interação, networking e colaboração, que contribuem de forma eficiente na formação de melhores pessoas e profissionais.
+          </p>
+
+          <p class="font-marron center">
+          <strong>Terá Rapadura?</strong><br>
+
+            Claro que sim jovem, pois não seria PHP com Rapadura se não tivesse rapadura hehehe.
+        </p>
           </div>
         </div>
 

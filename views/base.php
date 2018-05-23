@@ -31,7 +31,7 @@
 
     <!-- Section Parallax two -->
     <?php require_once 'views/parallax-two.php'; ?>
-
+    <br>
     <!-- Section Local -->
     <?php require_once 'views/local.php'; ?>
 
@@ -57,3 +57,12 @@
 
   </body>
 </html>
+<script>
+var $doc = $('html, body');
+$('.scrollSuave').click(function() {
+    $doc.animate({
+        scrollTop: $( $.attr(this, 'href') ).offset().top
+    }, 2000);
+    return false;
+});
+</script>
