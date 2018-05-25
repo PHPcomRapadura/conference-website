@@ -20,7 +20,7 @@
                     <p class="font-marron">Saiba como a sua empresa pode ajudar-nos a realizar um evento fantástico.</p>
                     </div>
                     <div class="card-action font-marron">
-                    <a target="_blank" href="http://conference.phpcomrapadura.org/files/midia-kit-conference.pdf">Saiba mais</a>
+                    <a target="_blank" href="http://conference.phpcomrapadura.org/assets/files/midia-kit-conference.pdf">Saiba mais</a>
                     </div>
                 </div>
             </div>
@@ -35,7 +35,7 @@
                     <p class="font-marron">Saiba como a sua empresa pode ajudar-nos a realizar um evento arretado.</p>
                     </div>
                     <div class="card-action font-marron">
-                    <a target="_blank" href="http://conference.phpcomrapadura.org/files/midia-kit-conference.pdf">Saiba mais</a>
+                    <a target="_blank" href="http://conference.phpcomrapadura.org/assets/files/midia-kit-conference.pdf">Saiba mais</a>
                     </div>
             </div>
         </div>
@@ -48,7 +48,7 @@
           <p class="font-marron">Saiba como a sua empresa pode ajudar-nos a realizar um evento top.</p>
         </div>
         <div class="card-action font-marron">
-          <a target="_blank" href="http://conference.phpcomrapadura.org/files/midia-kit-conference.pdf">Saiba mais</a>
+          <a target="_blank" href="http://conference.phpcomrapadura.org/assets/files/midia-kit-conference.pdf">Saiba mais</a>
         </div>
       </div>
     </div>
@@ -78,4 +78,3 @@
   </div>
   </div>
   </div>
-
