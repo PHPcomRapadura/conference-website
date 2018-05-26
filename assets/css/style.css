@@ -94,5 +94,5 @@ div#sympla-widget-288555 {
 }
 
 div#sympla-widget-288555 iframe {
-  width: 600px !important;
+  max-width: 600px !important;
 }
