@@ -12,8 +12,9 @@ nav .brand-logo {
   color: rgb(250, 246, 246);
 }
 
-.color-marron{
+nav.color-marron {
   background: #563529 !important;
+  z-index: 1000;
 }
 
 .font-marron{
@@ -82,4 +83,8 @@ p {
 
 footer.page-footer {
   margin: 0;
+}
+
+div.logo-conference {
+  padding: 0 25px;
 }
