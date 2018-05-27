@@ -18,7 +18,7 @@
                         <p class="font-marron">Saiba como a sua empresa pode ajudar-nos a realizar um evento fantástico.</p>
                     </div>
                     <div class="card-action font-marron">
-                        <a class="waves-effect waves-light btn" target="_blank" href="http://conference.phpcomrapadura.org/assets/files/midia-kit-conference.pdf">
+                        <a class="waves-effect waves-light btn color-marron" target="_blank" href="http://conference.phpcomrapadura.org/assets/files/midia-kit-conference.pdf">
                             <i class="fa fa-plus-circle"></i> Saiba mais
                         </a>
                     </div>
@@ -35,7 +35,7 @@
                         <p class="font-marron">Saiba como sua empresa pode nos ajudar a realizar um evento arretado.</p>
                     </div>
                     <div class="card-action font-marron">
-                        <a class="waves-effect waves-light btn" target="_blank" href="http://conference.phpcomrapadura.org/assets/files/midia-kit-conference.pdf">
+                        <a class="waves-effect waves-light btn color-marron" target="_blank" href="http://conference.phpcomrapadura.org/assets/files/midia-kit-conference.pdf">
                             <i class="fa fa-plus-circle"></i> Saiba mais
                         </a>
                     </div>
@@ -47,10 +47,10 @@
                     <div class="card-content white-text">
                         <span class="card-title font-marron"><strong>Patrocínio Rapadura batida</strong></span>
                         <hr />
-                        <p class="font-marron">Saiba como a sua empresa pode ajudar-nos a realizar um evento top.</p>
+                        <p class="font-marron">Saiba como a sua empresa pode ajudar-nos a realizar um evento jóiado.</p>
                     </div>
                     <div class="card-action font-marron">
-                        <a class="waves-effect waves-light btn" target="_blank" href="http://conference.phpcomrapadura.org/assets/files/midia-kit-conference.pdf">
+                        <a class="waves-effect waves-light btn color-marron" target="_blank" href="http://conference.phpcomrapadura.org/assets/files/midia-kit-conference.pdf">
                             <i class="fa fa-plus-circle"></i> Saiba mais
                         </a>
                     </div>

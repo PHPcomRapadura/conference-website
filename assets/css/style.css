@@ -12,9 +12,22 @@ nav .brand-logo {
   color: rgb(250, 246, 246);
 }
 
+#img-speakers{
+
+  border-width: medium;
+  border-style: solid;
+  border-radius: 50%;
+  border-color: #563529;
+  width: 50%;
+}
+
 nav.color-marron {
   background: #563529 !important;
   z-index: 1000;
+}
+
+.color-marron {
+  background: #563529 !important;
 }
 
 .font-marron{
