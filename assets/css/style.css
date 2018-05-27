@@ -12,6 +12,13 @@ nav .brand-logo {
   color: rgb(250, 246, 246);
 }
 
+#img-sponsors{
+  border-width: medium;
+  border-style: solid;
+  border-radius: 10%;
+  border-color: #563529;
+}
+
 #img-speakers{
 
   border-width: medium;

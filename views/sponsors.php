@@ -65,7 +65,8 @@
                         <span class="card-title font-marron"><strong>Apoio Institucional</strong></span>
                         <hr></hr>
                         <div class="center">
-                            <img class="responsive-img" src="assets/img/sponsors/logo-unifor.png" alt="UNIFOR" title="UNIFOR - Universidade de Fortaleza">
+                        <br>
+                            <img class="responsive-img" id="img-sponsors" src="assets/img/sponsors/logo-unifor.png" alt="UNIFOR" title="UNIFOR - Universidade de Fortaleza">
                         </div>
 
                     </div>

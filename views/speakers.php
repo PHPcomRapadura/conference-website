@@ -15,6 +15,7 @@
                         <span class="card-title font-marron center"><strong>Cyrille Grandval - Keynote</strong></span>
                         <hr></hr>
                         <div class="center">
+                            <br>
                             <img class="responsive-img" id="img-speakers" src="assets/img/speakers/cyrille-grandval.jpg" alt="UNIFOR" title="UNIFOR - Universidade de Fortaleza">
                         </div>
 
