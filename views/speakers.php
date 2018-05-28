@@ -16,17 +16,42 @@
                         <hr></hr>
                         <div class="center">
                             <br>
-                            <img class="responsive-img" id="img-speakers" src="assets/img/speakers/cyrille-grandval.jpg" alt="UNIFOR" title="UNIFOR - Universidade de Fortaleza">
+                            <img class="responsive-img" id="img-speakers" src="assets/img/speakers/cyrille-grandval.jpg" alt="Cyrille Grandval" title="Cyrille Grandval">
                         </div>
 
                     </div>
                     <div class="card-action center">
-                        <a class="brown-text text-darken-4" title="website" target="_blank" href="https://github.com/cgrandval"><i class="fa fa-github fa-3x" aria-hidden="true"></i>
+                        <a class="brown-text text-darken-4" title="Github" target="_blank" href="https://github.com/cgrandval"><i class="fa fa-github fa-3x" aria-hidden="true"></i>
                         </a>
+                        <a class="brown-text text-darken-4" title="Twitter" target="_blank" href="https://twitter.com/cyrillegrandval"><i class="fa fa-twitter-square fa-3x" aria-hidden="true"></i>
+                        </a>
+                        <a class="brown-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/cyrille.grandval"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col s12 m6">
+                <div class="card brown lighten-4">
+                    <div class="card-content white-text">
+                        <span class="card-title font-marron center"><strong>Walderlan Sena</strong></span>
+                        <hr></hr>
+                        <div class="center">
+                            <br>
+                            <img class="responsive-img" id="img-speakers" src="assets/img/speakers/walderlan-sena.jpeg" alt="Walderlan Sena" title="Walderlan Sena">
+                        </div>
+
+                    </div>
+                    <div class="card-action center">
+                        <a class="brown-text text-darken-4" title="Github" target="_blank" href="https://github.com/walderlansena"><i class="fa fa-github fa-3x" aria-hidden="true"></i>
+                        </a>
+                        <!--
                         <a class="brown-text text-darken-4" title="twitter" target="_blank" href="https://twitter.com/cyrillegrandval"><i class="fa fa-twitter-square fa-3x" aria-hidden="true"></i>
                         </a>
-                        <a class="brown-text text-darken-4" title="facebook" target="_blank" href="https://www.facebook.com/cyrille.grandval"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
+                        -->
+                        <a class="brown-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/walderlan.sena"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
                         </a>
+
                     </div>
                 </div>
             </div>
