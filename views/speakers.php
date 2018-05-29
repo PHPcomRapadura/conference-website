@@ -79,6 +79,30 @@
                 </div>
             </div>
 
+
+            <div class="col s12 m6">
+                <div class="card brown lighten-4">
+                    <div class="card-content white-text">
+                        <span class="card-title font-marron center"><strong>Ian Rodrigues</strong></span>
+                        <hr></hr>
+                        <div class="center">
+                            <br>
+                            <img class="responsive-img" id="img-speakers" src="assets/img/speakers/ian-rodrigues.jpg" alt="Ian Rodrigues" title="Ian Rodrigues">
+                        </div>
+
+                    </div>
+                    <div class="card-action center">
+                        <a class="brown-text text-darken-4" title="Github" target="_blank" href="https://github.com/ianrodrigues"><i class="fa fa-github fa-3x" aria-hidden="true"></i>
+                        </a>
+                        
+                        <a class="brown-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/ian.rodrigues.79230"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
+                        </a>
+
+                    </div>
+                </div>
+            </div>
+
+
         </div>
 
     </div>
