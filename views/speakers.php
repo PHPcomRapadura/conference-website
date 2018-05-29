@@ -55,6 +55,30 @@
                     </div>
                 </div>
             </div>
+
+            <div class="col s12 m6">
+                <div class="card brown lighten-4">
+                    <div class="card-content white-text">
+                        <span class="card-title font-marron center"><strong>Vidal Vasconcelos</strong></span>
+                        <hr></hr>
+                        <div class="center">
+                            <br>
+                            <img class="responsive-img" id="img-speakers" src="assets/img/speakers/vidal-vasconcelos.jpeg" alt="Vidal Vasconcelos" title="Vidal Vasconcelos">
+                        </div>
+
+                    </div>
+                    <div class="card-action center">
+                        <a class="brown-text text-darken-4" title="Github" target="_blank" href="https://github.com/vidalvasconcelos"><i class="fa fa-github fa-3x" aria-hidden="true"></i>
+                        </a>
+                        <a class="brown-text text-darken-4" title="Twitter" target="_blank" href="https://twitter.com/vidalvas"><i class="fa fa-twitter-square fa-3x" aria-hidden="true"></i>
+                        </a>
+                        <a class="brown-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/vidalvasconcelos"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
+                        </a>
+
+                    </div>
+                </div>
+            </div>
+
         </div>
 
     </div>
