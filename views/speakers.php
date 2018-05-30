@@ -103,6 +103,51 @@
             </div>
 
 
+            <div class="col s12 m6">
+                <div class="card brown lighten-4">
+                    <div class="card-content white-text">
+                        <span class="card-title font-marron center"><strong>Jholdy Phillipy</strong></span>
+                        <hr></hr>
+                        <div class="center">
+                            <br>
+                            <img class="responsive-img" id="img-speakers" src="assets/img/speakers/jholdy.jpeg" alt="Jholdy Phillipy" title="Jholdy Phillipy">
+                        </div>
+
+                    </div>
+                    <div class="card-action center">
+                        <a class="brown-text text-darken-4" title="Github" target="_blank" href="https://github.com/jholdy"><i class="fa fa-github fa-3x" aria-hidden="true"></i>
+                        </a>
+                        
+                        <a class="brown-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/jholdy.pd"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
+                        </a>
+
+                    </div>
+                </div>
+            </div>
+
+             <div class="col s12 m6">
+                <div class="card brown lighten-4">
+                    <div class="card-content white-text">
+                        <span class="card-title font-marron center"><strong>Alef Castelo</strong></span>
+                        <hr></hr>
+                        <div class="center">
+                            <br>
+                            <img class="responsive-img" id="img-speakers" src="assets/img/speakers/alef-castelo.jpeg" alt="Alef Castelo" title="Alef Castelo">
+                        </div>
+
+                    </div>
+                    <div class="card-action center">
+                        <a class="brown-text text-darken-4" title="Github" target="_blank" href="https://github.com/alefcastelo"><i class="fa fa-github fa-3x" aria-hidden="true"></i>
+                        </a>
+                        
+                        <a class="brown-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/AlefCastelo"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
+                        </a>
+
+                    </div>
+                </div>
+            </div>
+
+
         </div>
 
     </div>
