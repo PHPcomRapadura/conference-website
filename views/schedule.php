@@ -61,7 +61,7 @@
                   </tr>
                   <tr>
                     <td>14:10 - 14:50</td>
-                    <td>PHP Dependecy injection container</td>
+                    <td>PHP Dependency injection container</td>
                     <td>Jholdy Phillip</td>
                   </tr>
                   <tr>
