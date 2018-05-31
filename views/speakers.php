@@ -170,6 +170,29 @@
                 </div>
             </div>
 
+            <div class="col s12 m6">
+                <div class="card brown lighten-4">
+                    <div class="card-content white-text">
+                        <span class="card-title font-marron center"><strong>Luítame de Oliveira</strong></span>
+                        <hr></hr>
+                        <div class="center">
+                            <br>
+                            <img class="responsive-img" id="img-speakers" src="assets/img/speakers/luitame.jpeg" alt="Luítame de Oliveira" title="Luítame de Oliveira">
+                        </div>
+
+                    </div>
+                    <div class="card-action center">
+                        <a class="brown-text text-darken-4" title="Github" target="_blank" href="https://github.com/luitame"><i class="fa fa-github fa-3x" aria-hidden="true"></i>
+                        </a>
+                        <a class="brown-text text-darken-4" title="Twitter" target="_blank" href="https://twitter.com/luitame"><i class="fa fa-twitter-square fa-3x" aria-hidden="true"></i>
+                        </a>
+                        <a class="brown-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/luitame"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
+                        </a>
+
+                    </div>
+                </div>
+            </div>
+
 
         </div>
 
