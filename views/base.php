@@ -55,14 +55,13 @@
     <script src="assets/js/materialize.js"></script>
     <script src="assets/js/init.js"></script>
     <script src="https://www.sympla.com.br/js/sympla.widget-pt.js/288555"></script>
-
 </body>
 </html>
 <script>
-    var $doc = $('html, body');
+    let $doc = $('html, body');
     $('.scrollSuave').click(function() {
         $doc.animate({
-            scrollTop: $( $.attr(this, 'href') ).offset().top
+            scrollTop: $($.attr(this, 'href')).offset().top
         }, 2000);
         return false;
     });
