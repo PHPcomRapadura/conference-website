@@ -4,6 +4,7 @@
     <list default="true" id="79cf7287-cb3c-4616-975d-d97bc52ab3d5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/local.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/local.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/speakers.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/speakers.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571750717453</updated>
-      <workItem from="1571750720365" duration="715000" />
+      <workItem from="1571750720365" duration="850000" />
     </task>
     <servers />
   </component>
