@@ -41,11 +41,11 @@
     <!-- Section schedule -->
     <?php require_once 'views/schedule.php'; ?>
 
-    <!-- Section Parallax three -->
-    <?php require_once 'views/parallax-four.php'; ?>
+    <!-- Section Parallax three (Inscreva-se) -->
+    <?php /*require_once 'views/parallax-four.php';*/ ?>
 
     <!-- Section sponsors -->
-    <?php require_once 'views/sponsors.php'; ?>
+    <?php /*require_once 'views/sponsors.php';*/ ?>
 
     <!-- Section sponsors -->
     <?php require_once 'views/footer.php'; ?>
