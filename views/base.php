@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <link rel="icon" href="assets/img/favicon.png">
-    <title>PHP com Rapadura CONFERENCE 2018</title>
+    <title>PHP com Rapadura CONFERENCE 2019</title>
 
     <!-- CSS  -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -42,10 +42,10 @@
     <?php require_once 'views/schedule.php'; ?>
 
     <!-- Section Parallax three (Inscreva-se) -->
-    <?php /*require_once 'views/parallax-four.php';*/ ?>
+    <?php require_once 'views/parallax-four.php'; ?>
 
     <!-- Section sponsors -->
-    <?php /*require_once 'views/sponsors.php';*/ ?>
+    <?php require_once 'views/sponsors.php'; ?>
 
     <!-- Section sponsors -->
     <?php require_once 'views/footer.php'; ?>
