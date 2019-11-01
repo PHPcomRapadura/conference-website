@@ -2,10 +2,10 @@
     <div class="section no-pad-bot" id="home">
         <div class="container">
             <div class="row center">
-                <img id="img-banner" class="responsive-img" src="/assets/img/logo-rapadura.png" alt="PHP com Rapadura">
+                <img id="img-banner" class="responsive-img" src="assets/img/logo-rapadura.png" alt="PHP com Rapadura">
             </div>
             <div class="row center logo-conference">
-                <img id="img-banner" class="responsive-img" src="/assets/img/logo-conference-pcr-brown.png" alt="PHP com Rapadura CONFERENCE">
+                <img id="img-banner" class="responsive-img" src="assets/img/logo-conference-pcr-brown.png" alt="PHP com Rapadura CONFERENCE">
             </div>
             <div class="row center">
                 <h5 class="header col s12 light font-marron"><strong>30 de Novembro de 2019</strong></h5>
