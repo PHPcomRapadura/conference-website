@@ -18,7 +18,7 @@
                         <br>
                         <div class="row">
                             <div class="col m5 offset-m1">
-                                <img class="responsive-img" width="70%" id="img-sponsors" src="assets/img/sponsors/cyrille.jpg" alt="Cyrille Grandval" title="Cyrille Grandval">
+                                <img class="responsive-img" id="img-sponsors" src="assets/img/sponsors/cyrille.jpg" alt="Cyrille Grandval" title="Cyrille Grandval">
                             </div>
                             <div class="col m5">
                                 <h4 class="h2 brown-text">Cyrille Grandval</h4>
@@ -89,11 +89,11 @@
 
                         <div class="center">
                             <br>
-                            <img class="responsive-img" width="60%" id="img-sponsors" src="assets/img/sponsors/logo-rswpay.png" alt="R$W Pay" title="R$W Pay">
+                            <img class="responsive-img" id="img-sponsors" src="assets/img/sponsors/logo-rswpay.png" alt="R$W Pay" title="R$W Pay">
                         </div>
                     </div>
                     <div class="card-action center">
-                        <a class="brown-text text-darken-4" title="website" target="_blank" href="https://beta.rswpay.com.br/"><i class="fa fa-globe fa-3x" aria-hidden="true"></i>
+                        <a class="brown-text text-darken-4" title="website" target="_blank" href="https://rswpay.com.br/"><i class="fa fa-globe fa-3x" aria-hidden="true"></i>
                         </a>
                         <a class="brown-text text-darken-4" title="instagram" target="_blank" href="https://www.instagram.com/rswpay/"><i class="fa fa-instagram fa-3x" aria-hidden="true"></i>
                         </a>

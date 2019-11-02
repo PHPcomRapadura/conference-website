@@ -9,7 +9,7 @@
             <li><a href="#speakers" class="scrollSuave"><strong>Palestrantes</strong></a></li>
             <li><a href="#local" class="scrollSuave"><strong>Local</strong></a></li>
             <li><a href="#schedule" class="scrollSuave"><strong>Programação</strong></a></li>
-            <!-- <li><a href="#sponsors" class="scrollSuave"><strong>Patrocinadores</strong></a></li>-->
+            <li><a href="#tickets" class="scrollSuave"><strong>Ingressos</strong></a></li>
         </ul>
 
         <ul id="nav-mobile" class="sidenav color-marron">
@@ -18,7 +18,7 @@
             <li><a href="#speakers" class="scrollSuave"><strong>Palestrantes</strong></a></li>
             <li><a href="#local" class="scrollSuave"><strong>Local</strong></a></li>
             <li><a href="#schedule" class="scrollSuave"><strong>Programação</strong></a></li>
-            <!-- <li><a href="#sponsors" class="scrollSuave"><strong>Patrocinadores</strong></a></li>-->
+            <li><a href="#tickets" class="scrollSuave"><strong>Ingressos</strong></a></li>
         </ul>
         <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
     </div>
