@@ -82,15 +82,32 @@
             </div>
             <div class="col s12 m6">
                 <div class="card brown lighten-4">
-                    <div class="card-content white-text">
+                <div class="card-content white-text">
                         <span class="card-title font-marron"><strong>Patrocínio Rapadura de castanha</strong></span>
                         <hr />
-                        <p class="font-marron">Saiba como sua empresa pode nos ajudar a realizar um evento arretado.</p>
-                    </div>
-                    <div class="card-action font-marron">
-                        <a class="waves-effect waves-light btn color-marron" target="_blank" href="http://conference.phpcomrapadura.org/assets/files/midia-kit-conference.pdf">
-                            <i class="fa fa-plus-circle"></i> Saiba mais
-                        </a>
+
+                        <div class="center">
+                            <br><br>
+                            <img class="responsive-img" width="100%" id="img-sponsors" src="assets/img/sponsors/logo-fortics.png" alt="Fortics" title="Fortics">
+
+
+                            <p class="brown-text" style="font-size: 11pt">
+                            Fundada em 2003, a Fortics começou suas operações atuando em projetos para comunicação de dados e segurança da informação. Em 2006 ingressou no seguimento de comunicação unificada de voz e dados com soluções para telefonia IP e messageria multicanal. Em 2017 iniciou a vertical de soluções para computação em nuvem.
+                            </p>
+
+                            <br>
+                            <a class="brown-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/fortics"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
+                            </a>
+                            &nbsp;
+                            &nbsp;
+                            <a class="brown-text text-darken-4" title="linkedin" target="_blank" href="https://www.linkedin.com/company/forticsoficial"><i class="fa fa-linkedin fa-3x" aria-hidden="true"></i>
+                            </a>
+
+                            &nbsp;
+                            &nbsp;
+                            <a class="brown-text text-darken-4" title="Site" target="_blank" href="https://www.fortics.com.br"><i class="fa fa-globe fa-3x" aria-hidden="true"></i>
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>
