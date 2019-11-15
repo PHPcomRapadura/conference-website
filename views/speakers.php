@@ -17,6 +17,10 @@
                             <img class="responsive-img" id="img-speakers" src="https://user-images.githubusercontent.com/5892371/68815384-080b4100-065a-11ea-95fb-e7c74beb8b7b.jpg" alt="Adiel Cristo" title="Adiel Cristo">
                         </div>
                     </div>
+                    <div class="card-content font-marron">
+                        <span class="card-title center"><strong>Salvador-BA</strong></span>
+                        <p class="center">Desenvolvedor Web com 16 anos de experiência, trabalhando principalmente com PHP e Java. Apaixonado por PHP e DevOps, vive aprendendo sobre a linguagem e sobre metodologias e ferramentas relacionadas, e procurando formas de retribuir à comunidade.</p>
+                        </div>
                     <div class="card-action center">
                         <a class="brown-text text-darken-4" title="Github" target="_blank" href="https://github.com/adielcristo"><i class="fa fa-github fa-3x" aria-hidden="true"></i>
                         </a>
