@@ -25,6 +25,9 @@
                         <a class="brown-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/adiel.cristo"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
                         </a>
                     </div>
+                     <div class="bio">
+                            Desenvolvedor Web com 16 anos de experiência, trabalhando principalmente com PHP e Java. Apaixonado por PHP e DevOps, vive aprendendo sobre a linguagem e sobre metodologias e ferramentas relacionadas, e procurando formas de retribuir à comunidade.
+                    </div>
                 </div>
             </div>
             <div class="col s12 m6">
@@ -42,7 +45,11 @@
                         <a class="brown-text text-darken-4" title="twitter" target="_blank" href="https://twitter.com/caroline_rp22"><i class="fa fa-twitter-square fa-3x" aria-hidden="true"></i></a>
                         <a class="brown-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/annecaroline222"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i></a>
                     </div>
+                    <div class="bio">
+                            Tester, Desenvolvedora Front-End Jr., Representante das comunidades PHPWomenCE e Front-end CE, estudante de Análise e Desenvolvimento de Sistemas.
+                     </div>
                 </div>
+                
             </div>
             <div class="col s12 m6">
                 <div class="card brown lighten-4">
@@ -61,7 +68,9 @@
                         </a>
                         <a class="brown-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/fthiagogv"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
                         </a>
-
+                    </div>
+                    <div class="bio">
+                          Sou desenvolvedor web à mais ou menos 3 anos. Trabalho atualmente com Laravel desde a versão 4 até projetos na versão 6, Vuejs nas telas e salvando tudo que presta e não presta em uns NoSql e alguns SQL da vida. Mestrando em Ciência da Computação com foco em Microsserviços e auto-adaptação.
                     </div>
                 </div>
             </div>
@@ -81,7 +90,13 @@
                             <a class="brown-text text-darken-4" title="Github" target="_blank" href="https://github.com/ianrodrigues"><i class="fa fa-github fa-3x" aria-hidden="true"></i></a>
                         <a class="brown-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/ian.rodrigues.79230"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i> </a>
                     </div>
+                    <div class="bio">
+                        
+                            Programador (e palestrante) experiente, que foca em um código limpo e que entrega valor. Gosto de compartilhar conhecimento e me preocupo com o auto-aperfeiçoamento. Gosto de palestrar em conferências e meetups sobre PHP, clean code, testes automatizados, infraestrutura e muito mais.
+                
+                    </div>
                 </div>
+                
             </div>
             <div class="col s12 m6">
                 <div class="card brown lighten-4">
@@ -98,7 +113,11 @@
                         <a class="brown-text text-darken-4" title="Github" target="_blank" href="https://github.com/jullianamartins"><i class="fa fa-github fa-3x" aria-hidden="true"></i></a>
                         <a class="brown-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/juliana.martinsdeoliveira.31"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i></a>
                     </div>
+                    <div class="bio">
+                       Gerente de Projetos na OSF Global
+                    </div>
                 </div>
+                
             </div>
             <div class="col s12 m6">
                 <div class="card brown lighten-4">
@@ -118,7 +137,11 @@
                         <a class="brown-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/luitame"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
                         </a>
                     </div>
+                    <div class="bio">
+                         Backend developer at Oowlish
+                    </div>
                 </div>
+               
             </div>
             <div class="col s12 m6">
                 <div class="card brown lighten-4">
@@ -134,6 +157,9 @@
                         <a class="brown-text text-darken-4" title="Twitter" target="_blank" href="https://twitter.com/labarraquel"><i class="fa fa-twitter-square fa-3x" aria-hidden="true"></i></a>
                         <a class="brown-text text-darken-4" title="Github" target="_blank" href="https://github.com/rsb12php"><i class="fa fa-github fa-3x" aria-hidden="true"></i></a>
                         <a class="brown-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/raquelsantosbarra"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i></a>
+                    </div>
+                    <div class="bio">
+                        Técnica em Informática. Graduanda de Sistemas para Internet. Participante das comunidades PHP com Rapadura, FrontEnd CE, Darkmira Tour. Representante da Comunidade PHPWomen CE. Líder do Casulo (Grupo de Estudo Faculdade Evolução). Entusiasta do PHP.
                     </div>
                 </div>
             </div>
