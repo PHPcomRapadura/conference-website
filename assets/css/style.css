@@ -121,7 +121,8 @@ div#sympla-widget-288555 iframe {
 
 
 .card {
-  height:  800px;
+  height:  750px;
   padding: 10px;
+  overflow: hidden;
 
 }
