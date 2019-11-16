@@ -117,3 +117,12 @@ div#sympla-widget-288555 {
 div#sympla-widget-288555 iframe {
   max-width: 600px !important;
 }
+
+
+
+.card {
+  height:  750px;
+  padding: 10px;
+  overflow: hidden;
+
+}
