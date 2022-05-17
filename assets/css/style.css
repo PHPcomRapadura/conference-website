@@ -118,11 +118,16 @@ div#sympla-widget-288555 iframe {
   max-width: 600px !important;
 }
 
-
+@media all and (min-width 300px) and (max-width: 900px) {
+  table.responsive-table td {
+    max-width: 15em;
+    white-space: normal;
+    word-wrap: break-word;
+  }
+}
 
 .card {
   height:  750px;
   padding: 10px;
   overflow: hidden;
-
 }
